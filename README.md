@@ -1,4 +1,4 @@
-# Livro de receitas :cookieman:
+# Livro de receitas :man_cook:
 
 Welcome to my recipe book
 
