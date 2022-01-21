@@ -5,24 +5,24 @@
 ### Ingredientes
 
 - odwkoaksodawd
-  asdawdasdawd
-  asdawdawdasd
-  awdasd
-  awdasd
-  awdasdawd
-  asddawd
-  asddawd
-  asdawdawdasd
+- asdawdasdawd
+- asdawdawdasd
+- awdasd
+- awdasd
+- awdasdawd
+- asddawd
+- asddawd
+- asdawdawdasd
 
 ### Modo de preparo
 
 - cavalo
-  porco
-  cavalo
-  cavalo
-  cavalo
-  cavalo
-  cavalo
-  cavalo
-  cavalo
-  cavalo
+- porco
+- cavalo
+- cavalo
+- cavalo
+- cavalo
+- cavalo
+- cavalo
+- cavalo
+- cavalo
